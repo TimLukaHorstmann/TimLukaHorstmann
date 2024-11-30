@@ -57,35 +57,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimLukaHorstmann&hide=html&hide_border=true&layout=compact&langs_count=8&theme=default" alt="Top Languages">
 </div>
 
-<!-- Tech Stack -->
-<h2 align="center">💻 Tech Stack</h2>
-
-<h3 align="center">Programming Languages</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,typescript,ruby,vba" alt="Programming Languages" />
-</div>
-
-<h3 align="center">Libraries & Frameworks</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface,scikit-learn,numpy,pandas,jupyter,react" alt="Libraries & Frameworks">
-</div>
-
-<h3 align="center">Cloud & DevOps</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,ansible" alt="Cloud & DevOps">
-</div>
-
-<h3 align="center">Operating Systems</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,raspberrypi" alt="Operating Systems">
-</div>
-
-
-<!-- Footer -->
-<h3 align="center">
-  ⭐️ From <a href="https://github.com/TimLukaHorstmann">TimLukaHorstmann</a> | Let’s build the future together!
-</h3>
-
 <!-- Footer Image -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=110&section=footer" width="100%" alt="Footer">
