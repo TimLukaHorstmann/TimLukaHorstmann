@@ -4,12 +4,12 @@
 <!-- Profile Card -->
 <div align="center">
   <a href="https://horstmann.tech">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Tim%20Luka%20Horstmann&description=AI%20Researcher%20%26%20Computer%20Scientist%20with%20a%20business-driven%20mindset.%20Passionate%20about%20developing%20innovative%20solutions%20in%20NLP,%20AI,%20and%20Machine%20Learning.&image=https://horstmann.tech/profile.jpg&backgroundColor=%23f4f4f4&colorPattern=%23eaeaea&linkedin=tim-luka-horstmann&github=TimLukaHorstmann&website=https://horstmann.tech" alt="Tim Luka Horstmann's Card" />
+    <img width="100%" src="https://cardivo.vercel.app/api?name=Tim%20Luka%20Horstmann&description=AI%20Researcher%20%26%20Computer%20Scientist%20with%20a%20business-driven%20mindset.%20Passionate%20about%20developing%20innovative%20solutions%20in%20NLP,%20AI,%20and%20Machine%20Learning.&image=https://horstmann.tech/assets/images/profile_pic.jpg&backgroundColor=%23f4f4f4&colorPattern=%23eaeaea&linkedin=tim-luka-horstmann&github=TimLukaHorstmann&website=https://horstmann.tech" alt="Tim Luka Horstmann's Card" />
   </a>
 </div>
 
 <!-- Greeting -->
-<h1 align="center">Hello! <img src="https://github.com/TimLukaHorstmann/TimLukaHorstmann/blob/main/icons/wave.gif" width="48"> I'm Tim Luka Horstmann</h1>
+<h1 align="center">Hello! <img src="https://github.com/TimLukaHorstmann/TimLukaHorstmann/blob/main/wave.gif" width="48"> I'm Tim Luka Horstmann</h1>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -34,7 +34,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://www.linkedin.com/in/tim-luka-horstmann/" target="_blank">
+        <a href="https://www.linkedin.com/in/luka512/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
       </td>
@@ -44,7 +44,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="mailto:tim.luka.horstmann@example.com" target="_blank">
+        <a href="mailto:lukahorstmann@gmx.de" target="_blank">
           <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
         </a>
       </td>
