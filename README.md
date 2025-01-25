@@ -43,24 +43,22 @@
 <p align="center">
   I'm an <b>AI Researcher</b> and <b>Computer Scientist</b> with a strong foundation in both academia and industry. 
 </p>
+
 <!-- Education Section -->
 <h2 align="center">🎓 Education</h2>
 <div align="center">
-  <table>
+  <table style="border: none;">
     <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/ipparis.png" width="150"><br>
-        <b>Institut Polytechnique de Paris</b><br>
+      <td align="center" width="270">
+        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/ipparis.png" height="30" width="auto"><br>
         <i>Master’s in Data & AI</i>
       </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/cambridge.jpg" width="150"><br>
-        <b>University of Cambridge</b><br>
+      <td align="center" width="270">
+        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/cambridge.jpg" height="30" width="auto"><br>
         <i>Master’s in Advanced Computer Science</i>
       </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/hsrm.png" width="150"><br>
-        <b>RheinMain UoAS</b><br>
+      <td align="center" width="270">
+        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/hsrm.png" height="30" width="auto"><br>
         <i>Bachelor’s in Business Informatics</i>
       </td>
     </tr>
@@ -70,21 +68,18 @@
 <!-- Industry Experience Section -->
 <h2 align="center">🏢 Industry Experience</h2>
 <div align="center">
-  <table>
+  <table style="border: none;">
     <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/mckinsey_logo_crop.png" width="150"><br>
-        <b>McKinsey & Company</b><br>
+      <td align="center" width="270">
+        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/mckinsey_logo_crop.png" height="30" width="auto"><br>
         <i>Strategy Consulting</i>
       </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/26a5e7581fac24e6da09bcd96e79cc801cbb5770/assets/images/amazon.svg" width="150"><br>
-        <b>Amazon</b><br>
+      <td align="center" width="270">
+        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/26a5e7581fac24e6da09bcd96e79cc801cbb5770/assets/images/amazon.svg" height="30" width="auto"><br>
         <i>Business Intelligence & ML</i>
       </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/continental.png" width="150"><br>
-        <b>Continental</b><br>
+      <td align="center" width="270">
+        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/continental.png" height="30" width="auto"><br>
         <i>Software Engineering, Data Science, ML</i>
       </td>
     </tr>
