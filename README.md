@@ -51,15 +51,18 @@
     <tr>
       <td align="center" width="270">
         <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/ipparis.png" height="30" width="auto"><br>
-        <i>Master’s in Data & AI</i>
+        <i>Data and Artificial Intelligence</i> <br>
+        <i>(Master's degree)</i>
       </td>
       <td align="center" width="270">
         <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/cambridge.jpg" height="30" width="auto"><br>
-        <i>Master’s in Advanced Computer Science</i>
+        <i>Advanced Computer Science</i> <br>
+        <i>(Master’s degree)</i>
       </td>
       <td align="center" width="270">
         <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/hsrm.png" height="30" width="auto"><br>
-        <i>Bachelor’s in Business Informatics</i>
+        <i>Business Informatics</i> <br>
+        <i>(Bachelor’s degree)</i>
       </td>
     </tr>
   </table>
@@ -80,7 +83,7 @@
       </td>
       <td align="center" width="270">
         <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/continental.png" height="30" width="auto"><br>
-        <i>Software Engineering, Data Science, ML</i>
+        <i>SWE, Data Science, ML</i>
       </td>
     </tr>
   </table>
