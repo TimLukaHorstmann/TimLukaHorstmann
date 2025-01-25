@@ -47,7 +47,7 @@
 <!-- Education Section -->
 <h2 align="center">🎓 Education</h2>
 <div align="center">
-  <table style="border: none;">
+  <table style="border-collapse: collapse; border: none;">
     <tr>
       <td align="center" width="270">
         <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/ipparis.png" height="30" width="auto"><br>
@@ -68,7 +68,7 @@
 <!-- Industry Experience Section -->
 <h2 align="center">🏢 Industry Experience</h2>
 <div align="center">
-  <table style="border: none;">
+  <table style="border-collapse: collapse; border: none;">
     <tr>
       <td align="center" width="270">
         <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/mckinsey_logo_crop.png" height="30" width="auto"><br>
