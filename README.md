@@ -42,18 +42,57 @@
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
   I'm an <b>AI Researcher</b> and <b>Computer Scientist</b> with a strong foundation in both academia and industry. 
-  <br><br>
-  🎓 <b>Education:</b> <br>
-  - <b>Master’s in Data & AI</b> (Institut Polytechnique de Paris)  <br>
-  - <b>Master's in Advanced Computer Science</b> (University of Cambridge)  <br>
-  - <b>Bachelor’s in Business Informatics </b>(RheinMain UoAS)
-  <br><br>
-  🏢 <b>Industry Experience:</b>  <br>
-  - <b>McKinsey & Company</b> – Strategy Consulting <br>
-  - <b>Amazon</b> – Business Intelligence & ML  <br>
-  - <b>Continental</b> – Software Engineering, Data Science, and ML
-  <br><br>
-  ⚡ <b>My Passion:</b>  <br>
+</p>
+<!-- Education Section -->
+<h2 align="center">🎓 Education</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/ipparis.png" width="150"><br>
+        <b>Institut Polytechnique de Paris</b><br>
+        <i>Master’s in Data & AI</i>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/cambridge.jpg" width="150"><br>
+        <b>University of Cambridge</b><br>
+        <i>Master’s in Advanced Computer Science</i>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/hsrm.png" width="150"><br>
+        <b>RheinMain UoAS</b><br>
+        <i>Bachelor’s in Business Informatics</i>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Industry Experience Section -->
+<h2 align="center">🏢 Industry Experience</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/mckinsey_logo_crop.png" width="150"><br>
+        <b>McKinsey & Company</b><br>
+        <i>Strategy Consulting</i>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/26a5e7581fac24e6da09bcd96e79cc801cbb5770/assets/images/amazon.svg" width="150"><br>
+        <b>Amazon</b><br>
+        <i>Business Intelligence & ML</i>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/continental.png" width="150"><br>
+        <b>Continental</b><br>
+        <i>Software Engineering, Data Science, ML</i>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h2 align="center">⚡ My Passion:</h2>
+<p align="center">
   I bridge research and real-world applications, focusing on <b>Natural Language Processing (NLP), Machine Learning (ML), and AI-driven innovation</b>. 
   Passionate about leveraging technology for impact, I strive to develop solutions that drive change at the intersection of academia, industry, and entrepreneurship.
 </p>
