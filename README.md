@@ -37,11 +37,27 @@
   <img src="https://komarev.com/ghpvc/?username=TimLukaHorstmann&color=0A66C2&style=flat-square&label=Profile+Views" alt="Profile views">
 </p>
 
+
 <!-- About Me -->
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
-  I'm an AI Researcher and Computer Scientist pursuing a Master's in Data & AI at Institut Polytechnique de Paris. I specialize in NLP and Machine Learning, blending research and practical applications to create innovative solutions. Passionate about using technology to drive change, I'm on a mission to bridge the gap between academia and industry.
+  I'm an <b>AI Researcher</b> and <b>Computer Scientist</b> with a strong foundation in both academia and industry. 
+  <br><br>
+  🎓 <b>Education:</b> <br>
+  - <b>Master’s in Data & AI</b> (Institut Polytechnique de Paris)  <br>
+  - <b>Master's in Advanced Computer Science</b> (University of Cambridge)  <br>
+  - <b>Bachelor’s in Business Informatics </b>(RheinMain UoAS)
+  <br><br>
+  🏢 <b>Industry Experience:</b>  <br>
+  - <b>McKinsey & Company</b> – Strategy Consulting <br>
+  - <b>Amazon</b> – Business Intelligence & ML  <br>
+  - <b>Continental</b> – Software Engineering, Data Science, and ML
+  <br><br>
+  ⚡ <b>My Passion:</b>  <br>
+  I bridge research and real-world applications, focusing on <b>Natural Language Processing (NLP), Machine Learning (ML), and AI-driven innovation</b>. 
+  Passionate about leveraging technology for impact, I strive to develop solutions that drive change at the intersection of academia, industry, and entrepreneurship.
 </p>
+
 
 <!-- Featured Badges -->
 <p align="center">
