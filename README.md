@@ -47,43 +47,35 @@
 <!-- Education Section -->
 <h2 align="center">🎓 Education</h2>
 <div align="center">
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" width="270">
-        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/ipparis.png" height="30" width="auto"><br>
-        <i>Master’s in Data & AI</i>
-      </td>
-      <td align="center" width="270">
-        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/cambridge.jpg" height="30" width="auto"><br>
-        <i>Master’s in Advanced Computer Science</i>
-      </td>
-      <td align="center" width="270">
-        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/hsrm.png" height="30" width="auto"><br>
-        <i>Bachelor’s in Business Informatics</i>
-      </td>
-    </tr>
-  </table>
+  <div style="display: inline-block; margin: 10px; width:200px">
+    <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/main/assets/images/ipparis.png" height="30" alt="Institut Polytechnique de Paris"><br>
+    <i>Master’s in Data and Artificial Intelligence</i>
+  </div>
+  <div style="display: inline-block; margin: 10px; width:200px">
+    <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/main/assets/images/cambridge.jpg" height="30" alt="University of Cambridge"><br>
+    <i>Master’s in Advanced Computer Science</i>
+  </div>
+  <div style="display: inline-block; margin: 10px; width:200px">
+    <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/main/assets/images/hsrm.png" height="30" alt="RheinMain UoAS"><br>
+    <i>Bachelor’s in Business Informatics</i>
+  </div>
 </div>
 
 <!-- Industry Experience Section -->
 <h2 align="center">🏢 Industry Experience</h2>
 <div align="center">
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" width="270">
-        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/mckinsey_logo_crop.png" height="30" width="auto"><br>
-        <i>Strategy Consulting</i>
-      </td>
-      <td align="center" width="270">
-        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/26a5e7581fac24e6da09bcd96e79cc801cbb5770/assets/images/amazon.svg" height="30" width="auto"><br>
-        <i>Business Intelligence & ML</i>
-      </td>
-      <td align="center" width="270">
-        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/continental.png" height="30" width="auto"><br>
-        <i>Software Engineering, Data Science, ML</i>
-      </td>
-    </tr>
-  </table>
+  <div style="display: inline-block; margin: 10px; width:200px">
+    <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/main/assets/images/mckinsey_logo_crop.png" height="30" alt="McKinsey & Company"><br>
+    <i>Strategy Consulting</i>
+  </div>
+  <div style="display: inline-block; margin: 10px; width:200px">
+    <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/main/assets/images/amazon.svg" height="30" alt="Amazon"><br>
+    <i>Business Intelligence & ML</i>
+  </div>
+  <div style="display: inline-block; margin: 10px; width:200px">
+    <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/main/assets/images/continental.png" height="30" alt="Continental"><br>
+    <i>SWE, Data Science, ML</i>
+  </div>
 </div>
 
 <h2 align="center">⚡ My Passion:</h2>
