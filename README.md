@@ -57,12 +57,12 @@
       <td align="center" width="270">
         <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/cambridge.jpg" height="30" width="auto"><br>
         <i>Advanced Computer Science</i> <br>
-        <i>(Master’s degree)</i>
+        <i>(Master's degree)</i>
       </td>
       <td align="center" width="270">
         <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/hsrm.png" height="30" width="auto"><br>
         <i>Business Informatics</i> <br>
-        <i>(Bachelor’s degree)</i>
+        <i>(Bachelor's degree)</i>
       </td>
     </tr>
   </table>
@@ -73,21 +73,26 @@
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
     <tr>
-      <td align="center" width="270">
+      <td align="center" width="220">
+        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/logo-hi-paris-retina.png" height="30" width="auto"><br>
+        <i>Machine Learning Research</i>
+      </td>
+      <td align="center" width="220">
         <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/mckinsey_logo_crop.png" height="30" width="auto"><br>
         <i>Strategy Consulting</i>
       </td>
-      <td align="center" width="270">
+      <td align="center" width="220">
         <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/26a5e7581fac24e6da09bcd96e79cc801cbb5770/assets/images/amazon.svg" height="30" width="auto"><br>
         <i>Business Intelligence & ML</i>
       </td>
-      <td align="center" width="270">
+      <td align="center" width="220">
         <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/continental.png" height="30" width="auto"><br>
         <i>SWE, Data Science, ML</i>
       </td>
     </tr>
   </table>
 </div>
+
 
 <h2 align="center">⚡ My Passion:</h2>
 <p align="center">
