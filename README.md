@@ -47,11 +47,11 @@
 <!-- Education Section -->
 <h2 align="center">🎓 Education</h2>
 <p align="center">
-  <kbd><img src="ipp.svg" height="70" width="auto"></kbd> &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/ipparis.png" height="30" width="auto"></kbd> &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/cambridge.jpg" height="30" width="auto"></kbd> &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/hsrm.png" height="30" width="auto"></kbd>
 </p>
-<p align="center">
+<!-- <p align="center">
   <i>Data and AI</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <i>Advanced CS</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <i>Business Informatics</i>
@@ -60,22 +60,22 @@
   <i>(Master's degree)</i> &nbsp;&nbsp;
   <i>(Master's degree)</i> &nbsp;&nbsp;
   <i>(Bachelor's degree)</i>
-</p>
+</p> -->
 
 <!-- Industry Experience Section -->
 <h2 align="center">🏢 Industry Experience</h2>
 <p align="center">
-  <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/logo-hi-paris-retina.png" height="30" width="auto"></kbd> &nbsp;&nbsp;
-  <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/mckinsey_logo_crop.png" height="30" width="auto"></kbd> &nbsp;&nbsp;
-  <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/26a5e7581fac24e6da09bcd96e79cc801cbb5770/assets/images/amazon.svg" height="30" width="auto"></kbd> &nbsp;&nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/logo-hi-paris-retina.png" height="30" width="auto"></kbd> &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/mckinsey_logo_crop.png" height="30" width="auto"></kbd> &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/26a5e7581fac24e6da09bcd96e79cc801cbb5770/assets/images/amazon.svg" height="30" width="auto"></kbd> &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/continental.png" height="30" width="auto"></kbd>
 </p>
-<p align="center">
+<!-- <p align="center">
   <i>ML Research</i> &nbsp;&nbsp;&nbsp;&nbsp;
   <i>Strategy Consulting</i> &nbsp;&nbsp;&nbsp;&nbsp;
   <i>BI & ML</i> &nbsp;&nbsp;&nbsp;&nbsp;
   <i>SWE, DS, ML</i>
-</p>
+</p> -->
 
 <!-- Skills Section -->
 <!-- <h2 align="center">🛠️ Skills & Technologies</h2>
@@ -111,7 +111,7 @@
   <img src="https://streak-stats.demolab.com/?user=TimLukaHorstmann&theme=default&hide_border=true" alt="GitHub Streak">
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TimLukaHorstmann&custom_title=Tim's%20GitHub%20Activity&hide_border=true&border_radius=15&bg_color=ffffff&color=0A66C2&line=0A66C2&point=023E8A&area_color=DCE8F2&title_color=0A66C2&area=true" alt="GitHub Activity Graph">
-
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimLukaHorstmann&hide=html&hide_border=true&layout=compact&langs_count=8&theme=default" alt="Top Languages">
 </div>
 
