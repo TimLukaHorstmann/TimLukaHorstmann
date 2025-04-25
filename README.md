@@ -47,45 +47,54 @@
 <!-- Education Section -->
 <h2 align="center">🎓 Education</h2>
 
-<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-  <div align="center" style="margin: 10px; min-width: 120px;">
-    <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/ipparis.png" height="30" width="auto"></kbd>
-    <br><i>Data and AI</i>
-    <br><i>(Master's degree)</i>
-  </div>
-  <div align="center" style="margin: 10px; min-width: 120px;">
-    <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/cambridge.jpg" height="30" width="auto"></kbd>
-    <br><i>Advanced Computer Science</i>
-    <br><i>(Master's degree)</i>
-  </div>
-  <div align="center" style="margin: 10px; min-width: 120px;">
-    <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/hsrm.png" height="30" width="auto"></kbd>
-    <br><i>Business Informatics</i>
-    <br><i>(Bachelor's degree)</i>
-  </div>
-</div>
+<p align="center">
+  <table cellpadding="0" cellspacing="0">
+    <tbody>
+      <tr>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/ipparis.png" height="30" alt="IP Paris"><br>
+          <i>Data and AI</i><br><i>(Master's degree)</i>
+        </td>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/cambridge.jpg" height="30" alt="Cambridge"><br>
+          <i>Advanced Computer Science</i><br><i>(Master's degree)</i>
+        </td>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/hsrm.png" height="30" alt="HSMR"><br>
+          <i>Business Informatics</i><br><i>(Bachelor's degree)</i>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</p>
 
 <!-- Industry Experience Section -->
 <h2 align="center">🏢 Industry Experience</h2>
 
-<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-  <div align="center" style="margin: 10px; min-width: 100px;">
-    <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/logo-hi-paris-retina.png" height="30" width="auto"></kbd>
-    <br><i>ML Research</i>
-  </div>
-  <div align="center" style="margin: 10px; min-width: 100px;">
-    <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/mckinsey_logo_crop.png" height="30" width="auto"></kbd>
-    <br><i>Strategy Consulting</i>
-  </div>
-  <div align="center" style="margin: 10px; min-width: 100px;">
-    <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/26a5e7581fac24e6da09bcd96e79cc801cbb5770/assets/images/amazon.svg" height="30" width="auto"></kbd>
-    <br><i>BI & ML</i>
-  </div>
-  <div align="center" style="margin: 10px; min-width: 100px;">
-    <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/continental.png" height="30" width="auto"></kbd>
-    <br><i>SWE, Data Science, ML</i>
-  </div>
-</div>
+<p align="center">
+  <table cellpadding="0" cellspacing="0">
+    <tbody>
+      <tr>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/logo-hi-paris-retina.png" height="30" alt="HI Paris"><br>
+          <i>ML Research</i>
+        </td>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/mckinsey_logo_crop.png" height="30" alt="McKinsey"><br>
+          <i>Strategy Consulting</i>
+        </td>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/26a5e7581fac24e6da09bcd96e79cc801cbb5770/assets/images/amazon.svg" height="30" alt="Amazon"><br>
+          <i>BI &amp; ML</i>
+        </td>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/continental.png" height="30" alt="Continental"><br>
+          <i>SWE, Data Science, ML</i>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</p>
 
 <!-- Skills Section -->
 <!-- <h2 align="center">🛠️ Skills & Technologies</h2>
