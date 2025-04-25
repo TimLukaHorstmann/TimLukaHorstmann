@@ -46,55 +46,39 @@
 
 <!-- Education Section -->
 <h2 align="center">🎓 Education</h2>
-<div align="center">
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" width="270">
-        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/ipparis.png" height="30" width="auto"><br>
-        <i>Data and Artificial Intelligence</i> <br>
-        <i>(Master's degree)</i>
-      </td>
-      <td align="center" width="270">
-        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/cambridge.jpg" height="30" width="auto"><br>
-        <i>Advanced Computer Science</i> <br>
-        <i>(Master's degree)</i>
-      </td>
-      <td align="center" width="270">
-        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/hsrm.png" height="30" width="auto"><br>
-        <i>Business Informatics</i> <br>
-        <i>(Bachelor's degree)</i>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/ipparis.png" height="30" width="auto"></kbd> &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/cambridge.jpg" height="30" width="auto"></kbd> &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/hsrm.png" height="30" width="auto"></kbd>
+</p>
+<p align="center">
+  <i>Data and AI</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <i>Advanced CS</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <i>Business Informatics</i>
+</p>
+<p align="center">
+  <i>(Master's degree)</i> &nbsp;&nbsp;
+  <i>(Master's degree)</i> &nbsp;&nbsp;
+  <i>(Bachelor's degree)</i>
+</p>
 
 <!-- Industry Experience Section -->
 <h2 align="center">🏢 Industry Experience</h2>
-<div align="center">
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" width="220">
-        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/logo-hi-paris-retina.png" height="30" width="auto"><br>
-        <i>Machine Learning Research</i>
-      </td>
-      <td align="center" width="220">
-        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/mckinsey_logo_crop.png" height="30" width="auto"><br>
-        <i>Strategy Consulting</i>
-      </td>
-      <td align="center" width="220">
-        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/26a5e7581fac24e6da09bcd96e79cc801cbb5770/assets/images/amazon.svg" height="30" width="auto"><br>
-        <i>Business Intelligence & ML</i>
-      </td>
-      <td align="center" width="220">
-        <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/continental.png" height="30" width="auto"><br>
-        <i>SWE, Data Science, ML</i>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/logo-hi-paris-retina.png" height="30" width="auto"></kbd> &nbsp;&nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/mckinsey_logo_crop.png" height="30" width="auto"></kbd> &nbsp;&nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/26a5e7581fac24e6da09bcd96e79cc801cbb5770/assets/images/amazon.svg" height="30" width="auto"></kbd> &nbsp;&nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/continental.png" height="30" width="auto"></kbd>
+</p>
+<p align="center">
+  <i>ML Research</i> &nbsp;&nbsp;&nbsp;&nbsp;
+  <i>Strategy Consulting</i> &nbsp;&nbsp;&nbsp;&nbsp;
+  <i>BI & ML</i> &nbsp;&nbsp;&nbsp;&nbsp;
+  <i>SWE, DS, ML</i>
+</p>
 
 <!-- Skills Section -->
-<h2 align="center">🛠️ Skills & Technologies</h2>
+<!-- <h2 align="center">🛠️ Skills & Technologies</h2>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
   <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
@@ -106,8 +90,7 @@
   <a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-  <!-- Add or remove skills as needed -->
-</p>
+</p> -->
 
 <h2 align="center">⚡ My Passion:</h2>
 <p align="center">
