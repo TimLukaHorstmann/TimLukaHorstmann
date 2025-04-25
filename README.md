@@ -47,7 +47,7 @@
 <!-- Education Section -->
 <h2 align="center">🎓 Education</h2>
 <p align="center">
-  <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/ipparis.png" height="30" width="auto"></kbd> &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd><img src="ipp.svg" height="70" width="auto"></kbd> &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/cambridge.jpg" height="30" width="auto"></kbd> &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/hsrm.png" height="30" width="auto"></kbd>
 </p>
@@ -111,7 +111,7 @@
   <img src="https://streak-stats.demolab.com/?user=TimLukaHorstmann&theme=default&hide_border=true" alt="GitHub Streak">
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TimLukaHorstmann&custom_title=Tim's%20GitHub%20Activity&hide_border=true&border_radius=15&bg_color=ffffff&color=0A66C2&line=0A66C2&point=023E8A&area_color=DCE8F2&title_color=0A66C2&area=true" alt="GitHub Activity Graph">
-  
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimLukaHorstmann&hide=html&hide_border=true&layout=compact&langs_count=8&theme=default" alt="Top Languages">
 </div>
 
