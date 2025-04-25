@@ -47,19 +47,19 @@
 <!-- Education Section -->
 <h2 align="center">🎓 Education</h2>
 <p align="center">
-  <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/ipparis.png" height="30" width="auto"></kbd> &nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/cambridge.jpg" height="30" width="auto"></kbd> &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/ipparis.png" height="30" width="auto"></kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/cambridge.jpg" height="30" width="auto"></kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/hsrm.png" height="30" width="auto"></kbd>
 </p>
 <p align="center">
-  <i>Data and AI</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <i>Advanced CS</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <i>Business Informatics</i>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Data and AI</i>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Advanced Computer Science</i>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Business Informatics</i>
 </p>
 <p align="center">
-  <i>(Master's degree)</i> &nbsp;&nbsp;
-  <i>(Master's degree)</i> &nbsp;&nbsp;
-  <i>(Bachelor's degree)</i>
+  &nbsp;&nbsp;&nbsp;&nbsp;<i>(Master's degree)</i>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>(Master's degree)</i>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>(Bachelor's degree)</i>
 </p>
 
 <!-- Industry Experience Section -->
