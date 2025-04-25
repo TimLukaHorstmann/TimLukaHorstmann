@@ -46,36 +46,36 @@
 
 <!-- Education Section -->
 <h2 align="center">🎓 Education</h2>
-<div align="center">
-  <a href="https://horstmann.tech" target="_blank">
-    <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/ipparis.png" height="30" alt="IP Paris"><br>
-    <i>Data and AI<br>(Master's degree)</i>
-  </a> <a href="https://example.com/cambridge" target="_blank">
-    <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/cambridge.jpg" height="30" alt="Cambridge"><br>
-    <i>Advanced Computer Science<br>(Master's degree)</i>
-  </a> <a href="https://example.com/hsrm" target="_blank">
-    <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/hsrm.png" height="30" alt="HSMR"><br>
-    <i>Business Informatics<br>(Bachelor's degree)</i>
-  </a>
-</div>
+<p align="center">
+  <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/ipparis.png" height="30" width="auto"></kbd> &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/cambridge.jpg" height="30" width="auto"></kbd> &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/hsrm.png" height="30" width="auto"></kbd>
+</p>
+<p align="center">
+  <i>Data and AI</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <i>Advanced CS</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <i>Business Informatics</i>
+</p>
+<p align="center">
+  <i>(Master's degree)</i> &nbsp;&nbsp;
+  <i>(Master's degree)</i> &nbsp;&nbsp;
+  <i>(Bachelor's degree)</i>
+</p>
 
 <!-- Industry Experience Section -->
 <h2 align="center">🏢 Industry Experience</h2>
-<div align="center">
-  <a href="https://example.com/hi-paris" target="_blank">
-    <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/logo-hi-paris-retina.png" height="30" alt="HI Paris"><br>
-    <i>ML Research</i>
-  </a> <a href="https://www.mckinsey.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/mckinsey_logo_crop.png" height="30" alt="McKinsey"><br>
-    <i>Strategy Consulting</i>
-  </a> <a href="https://amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/26a5e7581fac24e6da09bcd96e79cc801cbb5770/assets/images/amazon.svg" height="30" alt="Amazon"><br>
-    <i>BI &amp; ML</i>
-  </a> <a href="https://continental.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/continental.png" height="30" alt="Continental"><br>
-    <i>SWE, Data Science, ML</i>
-  </a>
-</div>
+<p align="center">
+  <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/logo-hi-paris-retina.png" height="30" width="auto"></kbd> &nbsp;&nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/mckinsey_logo_crop.png" height="30" width="auto"></kbd> &nbsp;&nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/26a5e7581fac24e6da09bcd96e79cc801cbb5770/assets/images/amazon.svg" height="30" width="auto"></kbd> &nbsp;&nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/continental.png" height="30" width="auto"></kbd>
+</p>
+<p align="center">
+  <i>ML Research</i> &nbsp;&nbsp;&nbsp;&nbsp;
+  <i>Strategy Consulting</i> &nbsp;&nbsp;&nbsp;&nbsp;
+  <i>BI & ML</i> &nbsp;&nbsp;&nbsp;&nbsp;
+  <i>SWE, DS, ML</i>
+</p>
 
 <!-- Skills Section -->
 <!-- <h2 align="center">🛠️ Skills & Technologies</h2>
