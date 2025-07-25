@@ -24,9 +24,6 @@
   <a href="https://www.linkedin.com/in/luka512/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/TimLukaHorstmann" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
   <a href="mailto:lukahorstmann@gmx.de" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
@@ -37,12 +34,15 @@
   <img src="https://komarev.com/ghpvc/?username=TimLukaHorstmann&color=0A66C2&style=flat-square&label=Profile+Views" alt="Profile views">
 </p>
 
+<br><br>
 
 <!-- About Me -->
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
   I'm an <b>AI Researcher</b> and <b>Computer Scientist</b> with a strong foundation in both academia and industry. 
 </p>
+
+<br><br>
 
 <!-- Education Section -->
 <h2 align="center">🎓 Education</h2>
@@ -51,16 +51,8 @@
   <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/cambridge.jpg" height="30" width="auto"></kbd> &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/hsrm.png" height="30" width="auto"></kbd>
 </p>
-<!-- <p align="center">
-  <i>Data and AI</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <i>Advanced CS</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <i>Business Informatics</i>
-</p>
-<p align="center">
-  <i>(Master's degree)</i> &nbsp;&nbsp;
-  <i>(Master's degree)</i> &nbsp;&nbsp;
-  <i>(Bachelor's degree)</i>
-</p> -->
+
+<br><br>
 
 <!-- Industry Experience Section -->
 <h2 align="center">🏢 Industry Experience</h2>
@@ -70,40 +62,16 @@
   <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/26a5e7581fac24e6da09bcd96e79cc801cbb5770/assets/images/amazon.svg" height="30" width="auto"></kbd> &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/continental.png" height="30" width="auto"></kbd>
 </p>
-<!-- <p align="center">
-  <i>ML Research</i> &nbsp;&nbsp;&nbsp;&nbsp;
-  <i>Strategy Consulting</i> &nbsp;&nbsp;&nbsp;&nbsp;
-  <i>BI & ML</i> &nbsp;&nbsp;&nbsp;&nbsp;
-  <i>SWE, DS, ML</i>
-</p> -->
 
-<!-- Skills Section -->
-<!-- <h2 align="center">🛠️ Skills & Technologies</h2>
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
-  <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></a>
-  <a href="#"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face Transformers"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
-  <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></a>
-  <a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-</p> -->
+<br><br>
 
-<h2 align="center">⚡ My Passion:</h2>
+<h2 align="center">⚡ My Passion</h2>
 <p align="center">
   I bridge research and real-world applications, focusing on <b>Natural Language Processing (NLP), Machine Learning (ML), and AI-driven innovation</b>. 
   Passionate about leveraging technology for impact, I strive to develop solutions that drive change at the intersection of academia, industry, and entrepreneurship.
 </p>
 
-
-<!-- Featured Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-NLP%20%7C%20ML-0A66C2?style=flat-square&logo=openai&logoColor=white" alt="AI Badge">
-  <img src="https://img.shields.io/badge/Passion-Innovation%20%26%20Impact-94d2bd?style=flat-square" alt="Passion Badge">
-</p>
+<br><br>
 
 <!-- GitHub Stats -->
 <h3 align="center">📊 GitHub Stats</h3>
