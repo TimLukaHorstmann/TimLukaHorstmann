@@ -48,18 +48,18 @@
 <td align="center" width="50%">
 
 ### 🎓 Education
-<kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/universities/ipparis.png" height="25" width="auto"></kbd> &nbsp;
-<kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/universities/cambridge.jpg" height="25" width="auto"></kbd> &nbsp;
-<kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/universities/hsrm.png" height="25" width="auto"></kbd>
+<kbd><img src="https://horstmann.tech/assets/images/universities/ipparis.png" height="25" width="auto"></kbd> &nbsp;
+<kbd><img src="https://horstmann.tech/assets/images/universities/cambridge.jpg" height="25" width="auto"></kbd> &nbsp;
+<kbd><img src="https://horstmann.tech/assets/images/universities/hsrm.png" height="25" width="auto"></kbd>
 
 </td>
 <td align="center" width="50%">
 
 ### 🏢 Industry Experience
-<kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/companies/logo-hi-paris-retina.png" height="25" width="auto"></kbd> &nbsp;
-<kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/companies/mckinsey_logo_crop.png" height="25" width="auto"></kbd><br>
-<kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/26a5e7581fac24e6da09bcd96e79cc801cbb5770/assets/images/amazon.svg" height="25" width="auto"></kbd> &nbsp;
-<kbd><img src="https://raw.githubusercontent.com/TimLukaHorstmann/TimLukaHorstmann.github.io/refs/heads/main/assets/images/companies/continental.png" height="25" width="auto"></kbd>
+<kbd><img src="https://horstmann.tech/assets/images/companies/logo-hi-paris-retina.png" height="25" width="auto"></kbd> &nbsp;
+<kbd><img src="https://horstmann.tech/assets/images/companies/mckinsey_logo_crop.png" height="25" width="auto"></kbd><br>
+<kbd><img src="https://horstmann.tech/assets/images/companies/amazon.svg" height="25" width="auto"></kbd> &nbsp;
+<kbd><img src="https://horstmann.tech/assets/images/companies/continental.png" height="25" width="auto"></kbd>
 
 </td>
 </tr>
