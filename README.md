@@ -56,6 +56,7 @@
 <td align="center" width="50%">
 
 ### 🏢 Industry Experience
+<kbd><img src="https://horstmann.tech/assets/images/universities/cambridge_judge.png" height="25" width="auto"></kbd> &nbsp;
 <kbd><img src="https://horstmann.tech/assets/images/companies/logo-hi-paris-retina.png" height="25" width="auto"></kbd> &nbsp;
 <kbd><img src="https://horstmann.tech/assets/images/companies/mckinsey_logo_crop.png" height="25" width="auto"></kbd><br>
 <kbd><img src="https://horstmann.tech/assets/images/companies/amazon.svg" height="25" width="auto"></kbd> &nbsp;
@@ -91,7 +92,7 @@
 </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TimLukaHorstmann&custom_title=Tim's%20GitHub%20Activity&hide_border=true&border_radius=15&bg_color=ffffff&color=0A66C2&line=0A66C2&point=023E8A&area_color=DCE8F2&title_color=0A66C2&area=true" alt="GitHub Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TimLukaHorstmann&custom_title=Tim's%20GitHub%20Activity&hide_border=true&border_radius=15&color=0A66C2&line=0A66C2&point=023E8A&area_color=DCE8F2&title_color=0A66C2&area=true" alt="GitHub Activity Graph">
 </div>
 
 <!-- Footer Image -->
