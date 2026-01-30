@@ -1,101 +1,94 @@
-<!-- Header Image -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=110&section=header" width="100%" alt="Header">
-</p>
+<!-- Header Image with Integrated Title -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=280&section=header&text=Tim%20Luka%20Horstmann&fontSize=70&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20%7C%20Computer%20Scientist&descAlignY=58&descSize=22&fontColor=ffffff" width="100%" alt="Header" />
+</div>
 
-<!-- Greeting -->
-<h1 align="center">
-  Hello! <img src="https://github.com/TimLukaHorstmann/TimLukaHorstmann/blob/main/wave.gif" width="48" alt="Waving Hand"> I'm Tim Luka Horstmann
-</h1>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=AI+Researcher+%7C+Computer+Scientist;Entrepreneurial+Thinker;Innovation+and+Impact-Driven+Technologist" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  I'm an <b>AI Researcher</b> and <b>Computer Scientist</b> with a strong foundation in both academia and industry.
-</p>
-
-<!-- Connect with Me -->
-<h2 align="center">🌐 Connect with Me</h2>
-<p align="center">Discover my work and connect with me on these platforms:</p>
-
+<!-- Social Links & Navigation -->
 <div align="center">
   <a href="https://horstmann.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website">
-  </a>
+    <img src="https://img.shields.io/badge/Website-horstmann.tech-0A66C2?style=flat&logo=google-chrome&logoColor=white" height="25" alt="Website">
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/luka512/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" height="25" alt="LinkedIn">
+  </a>&nbsp;
   <a href="mailto:lukahorstmann@gmx.de" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white" height="25" alt="Email">
   </a>
 </div>
 
-<!-- Profile Views -->
-<p align="center">
+<div align="center">
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=AI+Researcher;Computer+Scientist;Entrepreneurial+Thinker;Innovation+and+Impact-Driven+Technologist" alt="Typing SVG" />
+  <br>
   <img src="https://komarev.com/ghpvc/?username=TimLukaHorstmann&color=0A66C2&style=flat-square&label=Profile+Views" alt="Profile views">
-</p>
-
-<br>
-
-<!-- Education & Experience -->
-<div align="center">
-  
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🎓 Education
-<kbd><img src="https://horstmann.tech/assets/images/universities/ipparis.png" height="25" width="auto"></kbd> &nbsp;
-<kbd><img src="https://horstmann.tech/assets/images/universities/cambridge.jpg" height="25" width="auto"></kbd> &nbsp;
-<kbd><img src="https://horstmann.tech/assets/images/universities/hsrm.png" height="25" width="auto"></kbd>
-
-</td>
-<td align="center" width="50%">
-
-### 🏢 Industry Experience
-<kbd><img src="https://horstmann.tech/assets/images/universities/cambridge_judge.png" height="25" width="auto"></kbd> &nbsp;
-<kbd><img src="https://horstmann.tech/assets/images/companies/logo-hi-paris-retina.png" height="25" width="auto"></kbd> &nbsp;
-<kbd><img src="https://horstmann.tech/assets/images/companies/mckinsey_logo_crop.png" height="25" width="auto"></kbd><br>
-<kbd><img src="https://horstmann.tech/assets/images/companies/amazon.svg" height="25" width="auto"></kbd> &nbsp;
-<kbd><img src="https://horstmann.tech/assets/images/companies/continental.png" height="25" width="auto"></kbd>
-
-</td>
-</tr>
-</table>
-
 </div>
 
 <br>
 
-<h2 align="center">⚡ My Passion</h2>
-<p align="center">
-  I bridge research and real-world applications, focusing on <b>Natural Language Processing (NLP), Machine Learning (ML), and AI-driven innovation</b>. 
-  Passionate about leveraging technology for impact, I strive to develop solutions that drive change at the intersection of academia, industry, and entrepreneurship.
-</p>
+<!-- Main Profile Grid -->
+<div align="center">
+<table border="0" width="90%">
+  <tr>
+    <td width="55%" valign="top">
+      <h2 align="center">⚡ Passion & Purpose</h2>
+      <div align="center">
+        <blockquote>
+          I bridge research and real-world applications, focusing on <b>Natural Language Processing (NLP)</b>, <b>Machine Learning (ML)</b>, and <b>AI-driven innovation</b>.
+          <br><br>
+          Passionate about leveraging technology for impact, I strive to develop solutions that drive change at the intersection of academia, industry, and entrepreneurship.
+        </blockquote>
+      </div>
+    </td>
+    <td width="45%" valign="top" align="center">
+      <h2 align="center">🚀 The Journey</h2>
+      <!-- Unified Experience Table -->
+      <table border="0">
+        <tr>
+          <td align="center"><b>🎓 Academia</b></td>
+          <td align="center"><b>🏢 Industry</b></td>
+        </tr>
+        <tr>
+            <td align="center" valign="top">
+                <a href="https://horstmann.tech"><img src="https://horstmann.tech/assets/images/universities/ipparis.png" height="35" title="IP Paris"></a><br><br>
+                <a href="https://horstmann.tech"><img src="https://horstmann.tech/assets/images/universities/cambridge.jpg" height="35" title="Cambridge"></a><br><br>
+                <a href="https://horstmann.tech"><img src="https://horstmann.tech/assets/images/universities/hsrm.png" height="35" title="HSRM"></a>
+            </td>
+            <td align="center" valign="top">
+                <a href="https://horstmann.tech"><img src="https://horstmann.tech/assets/images/universities/cambridge_judge.png" height="35" title="Cambridge Judge"></a><br><br>
+                <a href="https://horstmann.tech"><img src="https://horstmann.tech/assets/images/companies/mckinsey_logo_crop.png" height="35" title="McKinsey"></a><br><br>
+                <a href="https://horstmann.tech"><img src="https://horstmann.tech/assets/images/companies/logo-hi-paris-retina.png" height="35" title="Hi! Paris"></a><br><br>
+                <a href="https://horstmann.tech"><img src="https://horstmann.tech/assets/images/companies/amazon.svg" height="22" title="Amazon"></a><br><br>
+                <a href="https://horstmann.tech"><img src="https://horstmann.tech/assets/images/companies/continental.png" height="30" title="Continental"></a>
+            </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</div>
 
 <br>
 
-<!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
-<table>
-<tr>
-<td>
-  <img src="https://streak-stats.demolab.com/?user=TimLukaHorstmann&theme=default&hide_border=true" alt="GitHub Streak" height="165">
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimLukaHorstmann&hide=html&hide_border=true&layout=compact&langs_count=8&theme=default" alt="Top Languages" height="165">
-</td>
-</tr>
-</table>
+<!-- Stats Section -->
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TimLukaHorstmann&custom_title=Tim's%20GitHub%20Activity&hide_border=true&border_radius=15&color=0A66C2&line=0A66C2&point=023E8A&area_color=DCE8F2&title_color=0A66C2&area=true" alt="GitHub Activity Graph">
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimLukaHorstmann&layout=compact&hide=html&hide_border=true&langs_count=8&theme=cobalt&bg_color=0D1117&title_color=0A66C2&icon_color=0A66C2" height="170" alt="Top Languages" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com/?user=TimLukaHorstmann&theme=cobalt&hide_border=true&background=0D1117&ring=0A66C2&currStreakLabel=0A66C2" height="170" alt="Streak Stats" />
+      </td>
+    </tr>
+  </table>
+  <br>
+  <!-- Full Width Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TimLukaHorstmann&bg_color=0D1117&color=0A66C2&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
-<!-- Footer Image -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=110&section=footer" width="100%" alt="Footer">
-</p>
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer" width="100%" alt="Footer">
+</div>
