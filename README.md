@@ -1,6 +1,6 @@
 <!-- Header Image with Integrated Title -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=280&section=header&text=Tim%20Luka%20Horstmann&fontSize=70&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20%7C%20Computer%20Scientist&descAlignY=58&descSize=22&fontColor=ffffff" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=280&section=header&text=Tim%20Luka%20Horstmann&fontSize=70&animation=fadeIn&fontAlignY=38&desc=AI%20Research%20Engineer%20%7C%20Computer%20Scientist&descAlignY=58&descSize=22&fontColor=ffffff" width="100%" alt="Header" />
 </div>
 
 <!-- Social Links & Navigation -->
